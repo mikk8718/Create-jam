@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B7564550-121E-6BED-8EFE-412E847469E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/buttonHit.cs">
+    <Files>
+      <File FileName="Assets/buttonHit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreateJam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7347ad37-039a-4834-9edd-df2a844bbe0b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
